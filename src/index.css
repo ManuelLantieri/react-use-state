@@ -12,6 +12,7 @@
 .btn {
   padding: 5px 10px;
   border: 1px solid #000000;
+  cursor: pointer;
 }
 .btn.btnPrimary {
   background-color: transparent;
@@ -58,4 +59,7 @@ body {
 }
 .acc-body {
   padding: 10px;
+}
+.colorTitle {
+  background-color: #f6c344;
 }
