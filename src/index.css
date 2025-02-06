@@ -32,7 +32,6 @@
          BODY         
 -----------------------*/
 body {
-  text-align: center;
   background-color: #e5e5e5;
 }
 /*----------------------
@@ -44,8 +43,14 @@ body {
   margin-left: auto;
   margin-right: auto;
   margin-top: 50px;
+  background-color: #e5e5e5;
+}
+
+.acc-container {
+  margin-bottom: 30px;
   background-color: #ffffff;
 }
+
 .acc-head {
   display: flex;
   justify-content: space-between;
@@ -53,5 +58,4 @@ body {
 }
 .acc-body {
   padding: 10px;
-  margin-bottom: 30px;
 }
